@@ -19,7 +19,7 @@ Alex The Analyst: Youtube teacher
 ## Reference 
 This project was inspired by the tutorials and guidance provided by Alex the Analyst, a YouTuber specializing in data analysis and SQL. You can find helpful tutorials and insights on SQL and data analysis on his YouTube channel:
 
-[![Alex the Analyst YouTube Channel](https://www.youtube.com/watch?v=qfyynHBFOsM)
+[![Alex the Analyst YouTube Channel] (https://www.youtube.com/watch?v=qfyynHBFOsM)
 
 Click the image above to visit Alex the Analyst's YouTube channel.
 
