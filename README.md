@@ -11,10 +11,11 @@ allowing for a comprehensive examination of vaccination effectiveness and diseas
 2. Database Setup: Ensure that you have set up the database containing the relevant data. Instructions for database creation and schema can be found in the SQLQuery1.sql file.
 3. Query Execution: Execute SQL queries provided in the SQLQuery1.sql file using your preferred SQL client or interface.
 4. Data Interpretation: Analyze the results of the queries to draw conclusions about COVID-19 prevalence, vaccination efficacy, and other relevant metrics.
-
+5. To obtain the Vizualization is necessary run the VisualizationTables.sql, take the info and create excel files and create you own tables. More infomation relevant inside VisualizationTable.sql file. 
+6. The Tables_Visualization.png is the Visulization from the step five. It shows 4 representation of the information.
 ## Contributors
 Roberto Orozco: Project Lead & Developer
-Alex The Analyst: Youtube teacher
+
 
 ## Reference 
 This project was inspired by the tutorials and guidance provided by Alex the Analyst, a YouTuber specializing in data analysis and SQL. You can find helpful tutorials and insights on SQL and data analysis on his YouTube channel:
