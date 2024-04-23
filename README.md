@@ -8,11 +8,12 @@ allowing for a comprehensive examination of vaccination effectiveness and diseas
 1. Data Download: Download the two Excel files containing the COVID-19 and vaccination datasets from the following links:
     -CovidDeaths.xlsx
     -CovidVaccinations.xlsx
-2. Database Setup: Ensure that you have set up the database containing the relevant data. Instructions for database creation and schema can be found in the SQLQuery1.sql file.
-3. Query Execution: Execute SQL queries provided in the SQLQuery1.sql file using your preferred SQL client or interface.
-4. Data Interpretation: Analyze the results of the queries to draw conclusions about COVID-19 prevalence, vaccination efficacy, and other relevant metrics.
-5. To obtain the Vizualization is necessary run the VisualizationTables.sql, take the info and create excel files and create you own tables. More infomation relevant inside VisualizationTable.sql file. 
-6. The Tables_Visualization.png is the Visulization from the step five. It shows 4 representation of the information.
+   https://ourworldindata.org/covid-deaths
+3. Database Setup: Ensure that you have set up the database containing the relevant data. Instructions for database creation and schema can be found in the SQLQuery1.sql file.
+4. Query Execution: Execute SQL queries provided in the SQLQuery1.sql file using your preferred SQL client or interface.
+5. Data Interpretation: Analyze the results of the queries to draw conclusions about COVID-19 prevalence, vaccination efficacy, and other relevant metrics.
+6. To obtain the Vizualization is necessary run the VisualizationTables.sql, take the info and create excel files and create you own tables. More infomation relevant inside VisualizationTable.sql file. 
+7. The Tables_Visualization.png is the Visulization from the step five. It shows 4 representation of the information.
 ## Contributors
 Roberto Orozco: Project Lead & Developer
 
